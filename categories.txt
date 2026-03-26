@@ -1,0 +1,2 @@
+Use 'curl' to get the latest list from the one you downloaded or re-use wget. THESE ARE CASE SENSITIVE! PLEASE USE ALL LOWERCASE!
+music
